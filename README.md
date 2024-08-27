@@ -4,7 +4,7 @@ A wrapper class that exposes all CSS properties and rules as methods.
 
 ## How to use
 
-Step 1.  Copy the TagBuilder.cs into your project
+Step 1.  Copy the TagBuilder.cs into your project  
 Step 2.  Call it.
 
 ```csharp
