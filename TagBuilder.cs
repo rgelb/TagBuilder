@@ -23,7 +23,7 @@ internal class TagBuilder
         string styles = "";
 
         foreach (KeyValuePair<string, string> tag in cssRules) {
-            styles += $"{tag.Key}: {tag.Value};";
+            styles += $"{tag.Key}:{tag.Value};";
         }
 
         styles = "style=\"" + styles + "\"";

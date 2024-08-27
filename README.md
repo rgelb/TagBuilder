@@ -28,6 +28,12 @@ string html = builder
 Console.WriteLine(html);
 ```
 
+Output:
+
+```html
+<div style="background-color:yellow;border-radius:10px;padding-left:10px;padding-right:10px;color:darkorange;font-size:smaller;display:inline-flex;align-items:center;justify-content:center;">Not visible to other parties</div>
+```
+
 ## Try it out
 Start the Developer Command Prompt for VS2022, navigate to the repo directory, then compile the example:
 
